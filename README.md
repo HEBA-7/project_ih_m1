@@ -1,12 +1,13 @@
-# **B-School** ![Screenshot](estacionamiento-de-bicicletas.png) <a href="https://www.flaticon.es/iconos-gratis/bicicleta" title="bicicleta iconos">Bicicleta iconos creados por Freepik - Flaticon</a>
+# **B-School** ![Screenshot](estacionamiento-de-bicicletas.png) 
 
-### The app for finding the closest bicimad station from the school of your children to the place you want go. Be a friend for the planet, B-School.
+### The app for finding the closest bicimad station from the school of your children to the place you want go. Be a friend to the planet, B-School.
 **This is the project of Module 1 for Ironhack Data Analytics- V.0**
+
 To enjoy this app, you have two options:
 1. For the school you choose, you can filter it by the closest bicimad station in meters.
 2. For all the schools, you'll recieve by email all the schools with their closest bicimad station in meters.
 
-![Image](https://www.madridhappypeople.com/wp-content/uploads/2016/10/bicimad-1.jpg)
+      ![Image](https://www.madridhappypeople.com/wp-content/uploads/2016/10/bicimad-1.jpg)
 
 ---
 
@@ -43,11 +44,11 @@ from dotenv import load_dotenv
 ### :see_no_evil: **Usage**
 Option 1: "one" the input should be the name of the school, and returns all the next information:
 
-![Screenshot](Screenshot 2022-07-21 at 17.11.27)
+![Screenshot](Screenshot 2022-07-21 at 17.11.27.png)
 
 Option 2: "all" returns all the schools by email:
 
-![Screenshot](Screenshot 2022-07-21 at 17.08.51)
+![Screenshot](Screenshot 2022-07-21 at 17.08.51.png)
 
 
 ### :file_folder: **Folder structure**
